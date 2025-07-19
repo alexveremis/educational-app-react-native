@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190358326186",
+    "project_id": "education-app-90528",
+    "storage_bucket": "education-app-90528.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190358326186:android:32e515f68569c25b54f9d3",
+        "android_client_info": {
+          "package_name": "com.alex.veremis.educationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiDiBZCakMCzQ4u7yrioofsfVGr-rUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
